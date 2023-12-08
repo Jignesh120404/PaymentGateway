@@ -1,0 +1,175 @@
+body{
+  background-color: rgba(246, 246, 246, 1);
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+ /* Ensure the body takes up the full viewport height */
+}
+
+
+.MyDiv {
+  width: 1440px;
+  height: 650px;
+  margin-left: 50px;
+  margin-top: 50px;
+
+}
+
+.Img{
+  width: 3%;
+  height: 19px;
+  margin-top: 4%;
+  margin-left: 5%;
+}
+.Register{
+  width: 700px;
+  height: 258px;
+  border: 2px solid rgba(207, 207, 207, 1);
+  margin-left: 8%;
+  margin-top: 6%;
+  border-radius: 10px; 
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.Card{
+  width :670px;
+  height : 20px;
+  border: 2px solid rgba(0, 0, 0, 0.15) ;
+  ;
+  margin-left: 8%;
+  margin-top: 3%;
+  border-radius: 20px; 
+  padding: 20px;
+
+}
+.Order{
+  width: 300px;
+  height: 60%;
+ 
+  margin-left: 70%;
+  margin-top: -27%;
+  
+}
+.Imp{
+  width: 1400px;
+  height: 5%;
+  margin-left: 1%;
+  margin-top: 50px;
+  
+
+}
+.Down{
+  margin-left: 85%;
+  font-size: small;
+  position: fixed;
+  margin-top: 0%;
+}
+.Down1{
+  margin-left: 45%;
+  font-size: small;
+  margin-Top: -2.3%;
+  position: fixed;
+}
+.Down2{
+  margin-top: -2.3%;
+  font-size: small;
+  margin-left: 2%;
+  position: fixed;
+  display: flex;
+  position: fixed;
+}
+.I,
+.T,
+.F {
+  vertical-align: middle; /* Align images to the middle of the line */
+  margin-right: 15px; /* Add margin between images */
+  margin-top: -1.5%;
+}
+.card{
+  margin-left: 10%;
+  width:25px ;
+  height:25px ;
+  margin-top: -0.5%;
+  display: flex;
+
+
+}
+.C{
+  text-align: center;
+  margin-top: -3.8%;
+  font-size: large;
+  margin-right: 45%;
+  font-weight: 600;
+  
+}
+.line{
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  ;
+}
+.button{
+  margin-left: 5%;
+  margin-top: 30%;
+  height: 60px;
+  width: 250px;
+  border-radius: 10px; 
+  padding: 10px;
+ background: linear-gradient(180deg, #544BFE 0%, #4B45BC 100%);
+}
+.H{
+  width: 20px;
+  height: 10px;
+  margin-right: 5px;
+}
+.Del,
+.Sub{
+font-size: small;
+}
+
+.R{
+  border: 1px solid  rgba(0, 0, 0, 0.15);
+
+  width: 1312px;
+  margin-left: 65px;
+}
+.one{
+  margin-left: 0%;
+  margin-top: 1%;
+}
+.One{
+  margin-left: 7%;
+  margin-top: -4%;
+  
+}
+
+.Blank{
+  border: 1px solid  rgba(0, 0, 0, 0.15);
+
+  width: 720px;
+  margin-left: -10px;
+ 
+}
+.blank{
+  border: 1px solid  rgba(0, 0, 0, 0.15);
+
+  width: 620px;
+  margin-left: 5%;
+  
+
+}
+.R1{
+  margin-top: -4%;
+}
+.R2{
+  margin-top: -2%;
+}
+.R3{
+  margin-top: -4%;
+  color:  rgba(94, 94, 94, 1);
+  ;
+}
+.R4{
+  color:  rgba(94, 94, 94, 1);
+}
