@@ -44,11 +44,11 @@ function App() {
 </div>
 
 <div className="R4" style={{ fontFamily: 'Rubik, sans-serif' }}>
-      <img src={C1} alt="Bank Logo" style={{ marginRight: '85px', verticalAlign: 'middle', marginTop: '-20px' }} />
+      <img src={C1} className="Bank" style={{ marginRight: '85px', verticalAlign: 'middle', marginTop: '-20px' }} />
       <p style={{ marginRight: '90px', display: 'inline-block', verticalAlign: 'middle',}}>Bank of BD</p>
       <p style={{ marginRight: '105px', display: 'inline-block', verticalAlign: 'middle'}}>1234</p>
       <p style={{ marginRight: '85px', display: 'inline-block', verticalAlign: 'middle'}}>Jane Cooper</p>
-      <p style={{ display: 'inline-block', marginTop: '-30px' }}>12/34</p>
+      <p style={{ display: 'inline-block' }}>12/34</p>
     </div>
 
      </div>
