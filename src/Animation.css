@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+.parent-div {
+  width: 224px;
+  height: 52px;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.node-12 {
+  position: absolute;
+  width: 224px;
+  height: 52px;
+  top: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: 0;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 10px 10px 10px 10px;
+  background: #4f54d1ff;
+}
+.node-240 {
+  position: absolute;
+  width: 224px;
+  height: 8.028675079345703px;
+  top: 62px;
+  left: 0px;
+  opacity: 1;
+  z-index: 1;
+  transform: rotate(0deg);
+  border-radius: 0px 0px 0px 0px;
+  background: #514caeff;
+  box-shadow: inset 0px 2px 4px 0px rgba(0, 0, 0, 0.14000000059604645);
+}
+.nodeBg-234 {
+  position: absolute;
+
+  width: 18px;
+  height: 11px;
+  left: 0px;
+  top: 0px;
+  background-color: transparent;
+  background-size: cover;
+
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/acf8/ff59/78e03914ba7017ccdf9f94563f835c70?Expires=1702857600&Signature=jST7UGmYGj5dgMsFHMANUSRhI-WnsBC18fPjLwfq9tVRQBF6T8wJ92Um3u7Pw-qq~L~EyOAKitzswKnb0v~AYASZIgGCcr9zaDS306FIE8ql6e8jryuRUn3U8J6U727nlQlM4-Lt~P1MpFsVtuBGEV0Ybr9G87bW1D-za-OhXVuGsQ-TjyAiFFlV5B7ECBx9itodcNZr8a49Iha1hI~3qBf0EpY028BODtKuQy4v1HN5r2-nn-K5Ba4bclOFSPAlz0nJoVd3kVbEj1nLg9oHKC1Wnt7ETAQpiIjJVfmBeEx40RUpXbCB~CcFLqM2CtGOloob~S~yyZyp5E4qhSYXfw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-234 {
+  position: absolute;
+  width: 17px;
+  height: 10px;
+  top: 21px;
+  left: 50px;
+  opacity: 1;
+  z-index: 2;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 0px 0px 0px 0px;
+}
+.node-262 {
+  position: absolute;
+  width: 47px;
+  height: 24px;
+  top: 14px;
+  left: 89px;
+  opacity: 0;
+  z-index: -10;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 25.6px;
+}
+.node-262-0 {
+  font-size: 19px;
+  font-family: Inter;
+  font-weight: 700;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 25.6px;
+  color: #000000ff;
+}
+
+.node-13 {
+  position: absolute;
+  width: 106px;
+  height: 33px;
+  top: 10px;
+  left: 67px;
+  opacity: 1;
+  z-index: 0;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 25.6px;
+}
+.node-13-0 {
+  font-size: 19px;
+  font-family: Inter;
+  font-weight: 700;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 25.6px;
+  color: #ffffffff;
+}
