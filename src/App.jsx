@@ -9,9 +9,16 @@ import Paynow from "./Paynow.png";
 import './App.css';
 import C1 from "./C1.png";
 import GT from "./GreenTick.png";
+import "./Style.css";
+import "./Animation.css";
+import React, { useEffect } from "react";
+const runAnimations = require("./Scripts");
 
 function App() {
   const boldStyle = { fontWeight: 'bold' };
+  useEffect(() => {
+    runAnimations();
+  }, []);
   return (
     <div className='MyDiv'>
       <img src={logo} className="Img" />
@@ -66,7 +73,23 @@ function App() {
       <span></span>
       <span style={boldStyle}>$139</span>
            </p>
-           <button className="button" style={{ color: 'white', fontWeight: 'bold' }}><img className= "H"src={Paynow}></img>PAY NOW </button>
+           div className="parent-div">
+      <div className="node-12" id="id-12">
+        <div className="node-240" id="id-240"></div>
+        <div className="node-234" id="id-234">
+          <div className="nodeBg-234" id="id-bg-234">
+            {" "}
+          </div>
+        </div>
+        <div className="node-262" id="id-262">
+          <span className="node-262-0">{"PAID"}</span>
+        </div>
+        <div className="node-13" id="id-13">
+          <span className="node-13-0">{"Pay Now"}</span>
+        </div>
+      </div>
+    </div>
+      </div>
       </div>
       <p className="R"></p>
       <div className="Imp">
